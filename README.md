@@ -5,6 +5,7 @@
 ![Networking](https://img.shields.io/badge/Networking-TCP%20Sockets-blue?style=for-the-badge)
 
 A lightweight, networked desktop application designed for interactive classrooms. This project replaces heavy tools like Teams or Zoom for local labs by providing a **real-time shared whiteboard**, **integrated chat**, and **live polling system** using pure Java Sockets (TCP).
+Webpage: https://manaswi2006.github.io/Website-CN-project/
 
 ---
 
